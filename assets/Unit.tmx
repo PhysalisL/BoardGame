@@ -1,0 +1,21 @@
+<unitdatabase>
+	<unitdata id="Barbarian" attack="20" health="100" travelradius="2" trojectoryradius="0" explosionradius="1"/>
+	<unitdata id="Blademaster" attack="20" health="75" travelradius="3" trojectoryradius="0" explosionradius="1"/>
+	<unitdata id="Gunslinger" attack="10" health="60" travelradius="4" trojectoryradius="3" explosionradius="1"/>
+	<unitdata id="Archer" attack="15" health="75" travelradius="4" trojectoryradius="2" explosionradius="0"/>
+	<unitdata id="Phantom" attack="15" health="65" travelradius="6" trojectoryradius="2" explosionradius="1"/>
+	<unitdata id="Cleric" attack="10" health="70" travelradius="1" trojectoryradius="0" explosionradius="4"/>
+</unitdatabase>
+
+<unitlayout>
+	<unit searchID="Barbarian" x="0" y="0">
+	<unit searchID="Blademaster" x="1" y="1">
+	<unit searchID="Gunslinger" x="2" y="2">
+	<unit searchID="Archer" x="3" y="3">
+	<unit searchID="Phantom" x="4" y="4">
+	<unit searchID="Cleric" x="5" y="5">
+	<unit searchID="Barbarian" x="6" y="6">
+	<unit searchID="Gunslinger" x="7" y="7">
+	<unit searchID="Blademaster" x="8" y="8">
+	<unit searchID="Phantom" x="9" y="9">
+</unitlayout>
